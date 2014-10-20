@@ -29,6 +29,21 @@ A.~Aguilar-Arevalo, et~al., {First Measurement of the Muon Neutrino Charged
   \href {http://dx.doi.org/10.1103/PhysRevD.81.092005}
   {\path{doi:10.1103/PhysRevD.81.092005}}.
 
+\bibitem{Ashie:2005ik}
+Y.~Ashie, et~al., {A Measurement of atmospheric neutrino oscillation parameters
+  by SUPER-KAMIOKANDE I}, Phys.Rev. D71 (2005) 112005.
+\newblock \href {http://arxiv.org/abs/hep-ex/0501064}
+  {\path{arXiv:hep-ex/0501064}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.71.112005}
+  {\path{doi:10.1103/PhysRevD.71.112005}}.
+
+\bibitem{Martini:2011wp}
+M.~Martini, M.~Ericson, G.~Chanfray, {Neutrino quasielastic interaction and
+  nuclear dynamics}, Phys.Rev. C84 (2011) 055502.
+\newblock \href {http://arxiv.org/abs/1110.0221} {\path{arXiv:1110.0221}},
+  \href {http://dx.doi.org/10.1103/PhysRevC.84.055502}
+  {\path{doi:10.1103/PhysRevC.84.055502}}.
+
 \bibitem{Honda:2011nf}
 M.~Honda, T.~Kajita, K.~Kasahara, S.~Midorikawa, {Improvement of low energy
   atmospheric neutrino flux calculation using the JAM nuclear interaction
@@ -59,13 +74,6 @@ S.~K. Agarwalla, T.~Li, O.~Mena, S.~Palomares-Ruiz, {Exploring the Earth matter
   effect with atmospheric neutrinos in ice}\href
   {http://arxiv.org/abs/1212.2238} {\path{arXiv:1212.2238}}.
 
-\bibitem{Martini:2011wp}
-M.~Martini, M.~Ericson, G.~Chanfray, {Neutrino quasielastic interaction and
-  nuclear dynamics}, Phys.Rev. C84 (2011) 055502.
-\newblock \href {http://arxiv.org/abs/1110.0221} {\path{arXiv:1110.0221}},
-  \href {http://dx.doi.org/10.1103/PhysRevC.84.055502}
-  {\path{doi:10.1103/PhysRevC.84.055502}}.
-
 \bibitem{Wendell:2010md}
 R.~Wendell, et~al., {Atmospheric neutrino oscillation analysis with sub-leading
   effects in Super-Kamiokande I, II, and III}, Phys.Rev. D81 (2010) 092004.
@@ -78,13 +86,5 @@ K.~Abe, et~al., {The T2K Experiment}, Nucl.Instrum.Meth. A659 (2011) 106--135.
 \newblock \href {http://arxiv.org/abs/1106.1238} {\path{arXiv:1106.1238}},
   \href {http://dx.doi.org/10.1016/j.nima.2011.06.067}
   {\path{doi:10.1016/j.nima.2011.06.067}}.
-
-\bibitem{Ashie:2005ik}
-Y.~Ashie, et~al., {A Measurement of atmospheric neutrino oscillation parameters
-  by SUPER-KAMIOKANDE I}, Phys.Rev. D71 (2005) 112005.
-\newblock \href {http://arxiv.org/abs/hep-ex/0501064}
-  {\path{arXiv:hep-ex/0501064}}, \href
-  {http://dx.doi.org/10.1103/PhysRevD.71.112005}
-  {\path{doi:10.1103/PhysRevD.71.112005}}.
 
 \end{thebibliography}
